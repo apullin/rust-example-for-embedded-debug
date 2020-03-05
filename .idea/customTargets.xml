@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="88f47ce6-c493-4c8b-97d9-c09ce1d684fd" name="Cargo-Release" projectName="rust-example-for-embedded-debug">
+      <configuration id="5379a22a-fe61-4313-9ab3-041657d00569" name="Cargo-Release">
+        <build type="TOOL">
+          <tool actionId="Tool_Rust Build_build" />
+        </build>
+        <clean type="TOOL">
+          <tool actionId="Tool_Rust Build_clean" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>
