@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Device" type="com.jetbrains.cidr.embedded.customgdbserver.type" factoryName="com.jetbrains.cidr.embedded.customgdbserver.factory" singleton="false" PROGRAM_PARAMS="-select USB -device STM32F303VC -endian little -if SWD -speed auto -LocalhostOnly -nogui -s" PASS_PARENT_ENVS_2="true" PROJECT_NAME="rust-example-for-embedded-debug" TARGET_NAME="Cargo-Release" CONFIG_NAME="Cargo-Release" version="1" RUN_PATH="$PROJECT_DIR$/target/thumbv7em-none-eabihf/release/examples/device">
+    <custom-gdb-server version="1" gdb-connect="tcp::2331" executable="C:\Program Files (x86)\SEGGER\JLink_V644c\JLinkGDBServerCL.exe" warmup-ms="0" download-type="ALWAYS" reset-cmd="monitor reset" reset-after-download="true" />
+    <method v="2">
+      <option name="CLION.COMPOUND.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>
