@@ -4,7 +4,7 @@ MEMORY
   /* TODO Adjust these memory regions to match your device memory layout */
   /* These values correspond to the STM32F303VCT6, found on the STM32F3-DISCOVERY EVB*/
   FLASH : ORIGIN = 0x08000000, LENGTH = 256K
-  RAM : ORIGIN = 0x20000000, LENGTH = 48K
+  RAM : ORIGIN = 0x20000000, LENGTH = 40K
 }
 
 /* This is where the call stack will be allocated. */

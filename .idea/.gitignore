@@ -1,0 +1,11 @@
+*
+!tools
+!tools/*
+!.gitignore
+!customTargets.xml
+!modules.xml
+!*.iml
+!vcs.xml
+!runConfigurations
+!runConfigurations/*
+
